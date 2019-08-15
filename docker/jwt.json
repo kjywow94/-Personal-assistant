@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-1557899249827",
+  "private_key_id": "8aa33dbad415d2e5b11f0bc1b0efba9cf471cfa5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFzVWWLrOky/Wt\nGVO+wOHV7FFelcMQKTmXWch3CLRUt0L0Ju/g5wb4b0y2YPCvdg68UAaq72GpBdlb\nIfqzlzn4UmnUMR4N8GOaymsAcVgTP8fGXsbstO/asU6gxFWCJV4hq69kDRqyjzGY\n7zhhWBLWq3t+mPOOcB9jjrhD7SCtm+M6wFCpUluTFuQRA8dYLIkoltB2t8QMiZ33\nbWnPvIajnpEvpr89c69lLSG8JrkWiHGPr6EDytBIcjfd3/rWbVEDcOcbn9toUzcB\n+Ujdn76/p8pkvz4Xy0DRrvLH13REyWqhUnNCOF/+UH2XscaL0z9Q/Rbb8782prpJ\nrphRQOJ7AgMBAAECggEAA/GZcz/Fyn4GjUej/nmksbnfJXOhoADdFRdv18UPU2EU\nBKosvjSHqbcOYH8uTVFH70PpM3SdDdxVU8EprnWlbOi3vh38lhU6PIEsq6WW4Ute\n6vruHGoUc4J1ft8V6rJes20o4hB2J86TE+mGcOprSxHANJX4GoRBxp+3LM4y3e3k\nt1o8c+lmOAbkizUUUA9H/iF4uWlJv2XQGc07faINPL7giAk0rBqhDD49b5pAJIz7\nOgxa4GNjswkdZxeO10AqrhqgTwJQh8neu7WRRS+G7DuyAWLev1IbzjdVT4ooOgeq\nuw3FkKL92jYDeVTRutYPOASZtl2/FCIYyesQi5YwgQKBgQD8A4OIcBC7KiT3w1LZ\noSrtMIDhuTGiKIdIUy4H9sP/ex2uVGulV/Gy0VjP+m6Rg4DSAK4qwPXyP3yYs9Py\nYQbN4U8wXR+hJH7yp8B44AruZs+8ZCLXkeL46GQjUj6Ik71zHhZR+zc42e7+2jIX\nMj1Z5A7D9lVJUA+S+QMXhsTS5QKBgQDI7kzBRbGJJIwx5nNfpZVzuaCbGyum+xU9\nrzgTcPZl9QUTqDaFho8VWn/gSRhVyOIM8MkeFTIbeFfBmvgQAZx3+m5NaVmoFvNh\nj7bKv8avva+mFZk9V8Oekv7jAsNI6X35EcPYckI7ixF90tyahP11/4NnvHOZDxx1\naxUT3QSp3wKBgFTDbctHPillvHdlSAmRDtomdUL2wj3zecUWzSW6lyPoKgyHsokz\nckUd6sxRRD1HSN3Zgrs4mcC4H9VQrtoYTmyS+sqel9PgbZ56U9+UI7kZ9Yc8+wcc\nt4XWzE+hCw1u+8qrdQBwCZvimWM4yp5ItJ/2eAzrXrZA6mwZuzN/jdYNAoGAIJAm\nFkhyLjSjF88uMXkHUHrr4Vc06tnUJmwIHXZ4KCveR8JCG7+j3qUNBk8yR2zH3asE\nHQD4XuVQ64pu20E3l2YZjCgfpJMbnFsLF66ex4ppNfRYIk3f4QoXjri6500X4k6T\nu7dArp+qFQcgQ1Z8MSxYom4zGcIOLaVOBCsUf2cCgYB0gxpyVvxIcMARcKu9C5X0\ncnsktY46diVpA/SBxYPEgS+vNvrwY2YLMJCLlsjc/FV5TXcIFjNIc0jnGpyY0dam\nPMtjsAGMD+iooIrT7mVIHtaMUB/nGL0amrVgJT1onKDKboi17kkKKRPR69jJKrOn\neiCN+2YKW5Ze4HoLFmCu4g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "flaminggo@my-project-1557899249827.iam.gserviceaccount.com",
+  "client_id": "100418848942364695155",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flaminggo%40my-project-1557899249827.iam.gserviceaccount.com"
+}
